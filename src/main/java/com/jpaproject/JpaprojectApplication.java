@@ -30,6 +30,7 @@ public class JpaprojectApplication {
 		user2.setName("mayuro");
 		user2.setCity("dhamangaon");
 		user2.setStatus("house wife");
+               user2.setname("pallu");
 		
 		
 		//saving single user

@@ -14,6 +14,7 @@ import com.jpaproject.entities.User;
 @SpringBootApplication
 public class JpaprojectApplication {
 
+@i lelarnign very well your are done with your time
 
 system.out.println("hi rakesh you awesome with learingin");
 	public static void main(String[] args) {

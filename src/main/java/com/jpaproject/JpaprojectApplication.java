@@ -14,6 +14,8 @@ import com.jpaproject.entities.User;
 @SpringBootApplication
 public class JpaprojectApplication {
 
+
+system.out.println("hi rakesh you awesome with learingin");
 	public static void main(String[] args) {
 		ApplicationContext context = SpringApplication.run(JpaprojectApplication.class, args);
 		UserRepo userRepo = context.getBean(UserRepo.class);
